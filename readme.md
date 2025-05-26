@@ -11,7 +11,7 @@ cd namecardgen
 
 ### 2. Conda-Umgebung erstellen und aktivieren
 
-Zuerst miniconda installieren. Dann:
+Zuerst [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) installieren. Dann:
 
 ```bash
 conda env create -f environment.yml
