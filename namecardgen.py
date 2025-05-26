@@ -44,9 +44,6 @@ def generate_name_cards(student_data, file_path, logo_path="logo.png"):
     print(f"PDF saved as {output_file}")
 
 # Example usage
-#file_path = "FP_Physik_PHBern.xlsx"  # Replace with your actual file path
-#students = parse_excel(file_path)
-#generate_name_cards(students, file_path, logo_path="neufeld.png")
 
 file_path = "Test.xlsx"  # Replace with your actual file path
 students = parse_excel(file_path)

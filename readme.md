@@ -28,7 +28,7 @@ Die Excel-Datei (`Test.xlsx`) sollte zwei Spalten enthalten:
 
 Ersetze `logo.png` durch eigenes gewünschtes Logo.
 
-### 5. 🏃‍♂️ Verwendung
+### 5. Verwendung
 
 ```bash
 python .\namecardgen.py
