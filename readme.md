@@ -63,6 +63,5 @@ python namecardgen.py --help
 - Jede Namenskarte wird auf einer separaten Seite im Querformat (A4 landscape) erstellt
 
 ## Tipps
-- Verwende gutes Papier für professionelle Ergebnisse
-- Das Logo sollte quadratisch oder rechteckig sein für beste Darstellung
-- Die Excel-Datei muss die Spalten "Name" und "Class" enthalten (Groß-/Kleinschreibung beachten)
+- Verwende gutes Papier
+- Die Excel-Datei muss die Spalten "Name" und "Class" enthalten (Gross-/Kleinschreibung beachten)
