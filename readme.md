@@ -6,8 +6,8 @@ Dieses Python-Skript erstellt personalisierte Namenskarten als PDF-Dateien basie
 
 ### 1. Repository klonen
 ```bash
-git clone https://github.com/skolari93/namecardgen.git
-cd namecardgen
+git clone https://github.com/skolari93/Name-Card-Generator.git
+cd Name-Card-Generator
 ```
 
 ### 2. Conda-Umgebung erstellen und aktivieren
